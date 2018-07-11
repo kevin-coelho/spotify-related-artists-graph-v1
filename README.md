@@ -7,4 +7,4 @@ requests: `node axios or node request`
 env files: `node dotenv`  
 
 ### Spotify docs
-`[https://developer.spotify.com/documentation/](https://developer.spotify.com/documentation/)`
+[https://developer.spotify.com/documentation/](https://developer.spotify.com/documentation/)
