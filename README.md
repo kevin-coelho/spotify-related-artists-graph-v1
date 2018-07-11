@@ -11,6 +11,7 @@ yarn (better package manager than npm): `brew install yarn`
 1. grab the code: `git clone https://github.com/concert-media/spotify-related-artists-graph-v1.git`  
 2. install dependencies from package.json: `yarn install`  
 3. copy the .env file to the directory  
+4. try running something `node somescript.js`  
 
 ### Kevin's recommended Node libraries
 requests: `node axios or node request`  
