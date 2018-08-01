@@ -62,5 +62,5 @@ using Postman.
 
 
 ### Promisify your code
-Use the blue-bird library to wrap your javascript in promises for better error handling when making http requests 
+Use the blue-bird library to wrap your javascript in promises for better error handling when making http requests
 ```npm install bluebird```
