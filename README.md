@@ -59,3 +59,8 @@ You can then send requests to
 `localhost:8000/some-route-you-just-created`  
 using Postman.  
 [https://www.getpostman.com/](https://www.getpostman.com/)
+
+
+### Promisify your code
+Use the blue-bird library to wrap your javascript in promises for better error handling when making http requests 
+```npm install bluebird```
